@@ -3,7 +3,7 @@
 
 可能你也跟我同样好奇，这些分析可以解决什么样的生物学问题；
 
-其中homework_R是作业汇总，还有分开的代码在sep_folder文件夹中；
+其中homework.R是作业的代码汇总，还有分开的代码在sep_folder文件夹中；
 
 ## 各种数据库简介： 
 ### GEO数据库(Gene Expression Ominibus)：基因表达综合数据库；  
