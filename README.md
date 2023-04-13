@@ -27,7 +27,7 @@ CLL包：包含慢性淋巴细胞白血病(CLL)基因表达数据。CLL数据中
 根据progress-stable分组画箱线图：看该基因的表达量是否与疾病进展情况有关？？？
 
 ### h4:BRCA1基因在TCGA数据库的乳腺癌数据集的表达情况，画小提琴图：
-从http://www.cbioportal.org/index.do进入：选择癌症类型和数据集
+从http://www.cbioportal.org/index.do 进入：选择癌症类型和数据集
 
 ### h5:TP53基因在TCGA数据库的乳腺癌数据集的表达量分组的生存分析：
 #### 关于生存分析曲线：
